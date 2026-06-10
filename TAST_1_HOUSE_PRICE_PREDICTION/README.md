@@ -3,7 +3,7 @@
 ## 🚀 Live Demo
 
 **Try the application here:**
-https://your-space-name.hf.space
+https://huggingface.co/spaces/pritamvermas/california-house-price-predictor
 
 ---
 
